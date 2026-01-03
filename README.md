@@ -1,4 +1,4 @@
-# Pre-diabetes tutorial
+# Introduction to data science tutorial
 Welcome! the idea of this tutorial is to give you **basic statistical and visualization tools** by reproducing the analysis of this paper: \
 *Impact of Dietary Interventions on Pre-diabetic Oral and Gut Microbiome, Metabolites and Cytokines* \
 Shoer et al. Nature Communications, 2023. https://doi.org/10.1038/s41467-023-41042-x
